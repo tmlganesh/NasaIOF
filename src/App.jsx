@@ -35,7 +35,7 @@ function App() {
             <div className="content">
                 {!showReveal ? (
                     <div className="intro">
-                        <h1>What Did Hubble See on Your Birthday?</h1>
+                        <h1>What Did Hubble See on Your Birthday? Check!!</h1>
                         <p>Enter your birthday to find out!</p>
                         <DateSelector onDateSelect={handleDateSelect} />
                     </div>
